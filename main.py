@@ -1,5 +1,4 @@
 #! /usr/bin/python
-print 'hello world'
 import pygame
 
 deepblue = (26, 0, 255)
